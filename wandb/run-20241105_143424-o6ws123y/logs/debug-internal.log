@@ -1,0 +1,19 @@
+{"time":"2024-11-05T14:34:27.539794-06:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T14:34:27.539832-06:00","level":"INFO","msg":"created symlink","path":"/Users/femibello/Documents/projects/gpt2-rep/wandb/run-20241105_143424-o6ws123y/logs/debug-core.log"}
+{"time":"2024-11-05T14:34:27.653853-06:00","level":"INFO","msg":"created new stream","id":"o6ws123y"}
+{"time":"2024-11-05T14:34:27.653909-06:00","level":"INFO","msg":"stream: started","id":"o6ws123y"}
+{"time":"2024-11-05T14:34:27.653909-06:00","level":"INFO","msg":"handler: started","stream_id":{"value":"o6ws123y"}}
+{"time":"2024-11-05T14:34:27.653962-06:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"o6ws123y"}}
+{"time":"2024-11-05T14:34:27.654006-06:00","level":"INFO","msg":"sender: started","stream_id":"o6ws123y"}
+{"time":"2024-11-05T14:34:27.772342-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T16:43:39.964784-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-11-05T16:44:15.527889-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-11-05T16:45:10.070934-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.145.6.175:59853->35.186.228.49:443: read: operation timed out"}
+{"time":"2024-11-05T17:22:34.543285-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.145.6.175:60882->35.186.228.49:443: read: operation timed out"}
+{"time":"2024-11-05T17:43:49.828231-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.145.6.175:61176->35.186.228.49:443: read: operation timed out"}
+{"time":"2024-11-05T18:00:32.129884-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-11-05T18:01:04.478795-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-11-05T18:01:39.345506-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-11-05T18:02:02.55513-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.145.6.175:61347->35.186.228.49:443: read: operation timed out"}
+{"time":"2024-11-05T21:28:33.151272-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/f3mi-the-university-of-texas-at-austin/gpt2-rep/o6ws123y/file_stream\": read tcp 10.145.6.175:64725->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-11-05T21:29:24.253457-06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/f3mi-the-university-of-texas-at-austin/gpt2-rep/o6ws123y/file_stream\": read tcp 10.145.6.175:64759->35.186.228.49:443: read: connection reset by peer"}

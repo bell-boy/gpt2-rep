@@ -1,0 +1,38 @@
+{
+  "os": "macOS-14.5-arm64-arm-64bit",
+  "python": "3.12.4",
+  "startedAt": "2024-11-05T20:33:41.257847Z",
+  "program": "/Users/femibello/Documents/projects/gpt2-rep/gpt2.ipynb",
+  "git": {
+    "remote": "git@github.com:bell-boy/gpt2-rep.git",
+    "commit": "b5d57600d7a77b15f6ed14d166668eb6eee32c7f"
+  },
+  "email": "joshuaobello95@gmail.com",
+  "root": "/Users/femibello/Documents/projects/gpt2-rep",
+  "host": "wireless-10-145-6-175.public.utexas.edu",
+  "username": "femibello",
+  "executable": "/Users/femibello/Documents/projects/gpt2-rep/.gpt2/bin/python",
+  "codePathLocal": "gpt2.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "115796520960"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M2",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 8,
+    "memoryGb": 8
+  }
+}
